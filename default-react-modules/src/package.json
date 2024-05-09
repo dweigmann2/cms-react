@@ -14,14 +14,15 @@
   "license": "ISC",
   "dependencies": {
     "@hubspot/cms-components": "^0.14",
+    "antd": "^5.17.0",
     "react": "^18.2.0",
     "styled-jsx": "^5"
   },
   "devDependencies": {
     "@hubspot/cms-dev-server": "^0.14",
-    "@vitejs/plugin-react": "^4.0.4",
+    "@vitejs/plugin-react": "^4.2.1",
     "jsdom": "^22.1.0",
-    "vite": "^4.4.9",
+    "vite": "^5.2.0",
     "vitest": "^0.34.4"
   }
 }

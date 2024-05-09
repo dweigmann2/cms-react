@@ -6,9 +6,7 @@ import HubSpotSprocket from '../HubSpotSprocket';
 function Home() {
   return (
     <Layout>
-      <div className={homeStyles.logo}>
-        <HubSpotSprocket link={'https://hubspot.com'} />
-      </div>
+
     </Layout>
   );
 }
